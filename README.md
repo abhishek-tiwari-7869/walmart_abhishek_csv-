@@ -1,6 +1,6 @@
-# walmart_abhishek_csv-
+# walmart_abhishek
 A portfolio of business-driven data analytics case studies designed to demonstrate skills in customer profiling, dashboarding, and actionable insight generation.
-# Walmart Abhishek CSV
+# Walmart Abhishek 
 
 ## 📊 Customer Purchase Behavior Analysis on Walmart's Black Friday Sales
 
